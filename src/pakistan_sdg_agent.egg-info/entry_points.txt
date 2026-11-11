@@ -1,0 +1,2 @@
+[console_scripts]
+pk-agent = pakistan_sdg_agent.cli:app

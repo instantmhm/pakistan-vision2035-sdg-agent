@@ -1,0 +1,34 @@
+{
+  "market_trends_2026": {
+    "target_it_exports_usd_billion": 5.0,
+    "active_freelancers_estimated": 1500000,
+    "growth_rate_yoy": 28.5
+  },
+  "skill_demand": [
+    {
+      "skill": "Python & AI Agent Architecture",
+      "demand_score": 95,
+      "avg_hourly_rate_usd": 35,
+      "sdg_alignment": "SDG 8.2 & SDG 4.4",
+      "regional_availability": "High in Lahore, Karachi, Islamabad"
+    },
+    {
+      "skill": "Full Stack Cloud Development (React/Node)",
+      "demand_score": 90,
+      "avg_hourly_rate_usd": 30,
+      "sdg_alignment": "SDG 8.5",
+      "regional_availability": "Moderate"
+    },
+    {
+      "skill": "Data Engineering & Analytics",
+      "demand_score": 85,
+      "avg_hourly_rate_usd": 28,
+      "sdg_alignment": "SDG 8.2",
+      "regional_availability": "Moderate"
+    }
+  ],
+  "common_gaps": [
+    "Advanced prompt engineering & LLM tool integration",
+    "Enterprise cloud deployment & CI/CD automation"
+  ]
+}
